@@ -1,5 +1,7 @@
 # My Room in 3D
 
+<img width="100%" src="https://github.com/fantasticdevking/my-showroom-in-3d/showcase.png" />
+
 ## Setup
 
 Download [Node.js](https://nodejs.org/en/download/).
