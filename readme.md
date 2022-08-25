@@ -1,6 +1,6 @@
 # My Room in 3D
 
-<img width="100%" src="https://github.com/fantasticdevking/my-showroom-in-3d/showcase.png" />
+<img width="100%" src="https://github.com/fantasticdevking/my-showroom-in-3d/blob/main/showcase.png" />
 
 ## Setup
 
