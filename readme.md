@@ -2,8 +2,8 @@
 
 ## Links
 
-- [GitHub](https://github.com/fantasticdevking/My-3D-Showroom)
-- [Live](https://my-3d-showroom.vercel.app)
+- [GitHub](https://github.com/fantasticdevking/my-showroom-in-3d)
+- [Live](https://my-showroom-in-3d-world)
 
 ## Setup
 
